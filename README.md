@@ -1,7 +1,7 @@
 ### Hey, I'm Rezoan Ahmed Abir 👋
 
 
-- 🔭 I’m currently studying at Chittagong University of Engineering and Technology
+- 🔭 I’m currently studying CSE at CUET (Chittagong University of Engineering and Technology)
 - 🌱 I’m currently learning Basic Stuffs of Competitive Programming
 - 📫 How to reach me: ahmedabir.rez@gmail.com
 <!-- CURRENTLY UNAVAILABLE

@@ -1,5 +1,5 @@
 ### Hey, I'm Rezoan Ahmed Abir 👋
-![](https://komarev.com/ghpvc/?username=REZ-OAN&color=green&&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=REZ-OAN&color=blueviolet&&style=for-the-badge&abbreviated=true)
 
 - 🔭 I’m Computer Science and Engineering Student and also INTERN Software Engineer at Poridhi.Io.
 - 🌱 I’m currently Working with Basic Stuffs of DevOps Engineering
